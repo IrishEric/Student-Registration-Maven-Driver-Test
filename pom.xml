@@ -11,4 +11,15 @@
   			<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
+  
+  <repositories>  
+    <repository>
+        <id>dropbox-maven-repository</id>
+        <name>My Dropbox Repository</name>
+        <url>
+            https://www.dropbox.com/sh/5wtu7neop3c18pr/AAAypqBObwG7UVcdKRivZICQa?dl=0
+        </url>
+    </repository>
+</repositories>
+
 </project>
